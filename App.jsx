@@ -414,13 +414,11 @@ const Footer = () => {
         </div>
         <div>
           <h5 className="font-bold mb-6">Contato</h5>
-          <p className="text-background/40 text-sm">contato@nextsolution.com.br</p>
-          <p className="text-background/40 text-sm mt-2">+55 11 99999-9999</p>
+          <p className="text-background/40 text-sm">+55 21 98143-6672</p>
         </div>
       </div>
       <div className="pt-12 border-t border-background/10 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] uppercase tracking-widest text-background/20 font-mono">
         <p>© 2026 NextSolution Assistência Técnica. Todos os direitos reservados.</p>
-        <p>Built with Precision by Gemini</p>
       </div>
     </footer>
   );
